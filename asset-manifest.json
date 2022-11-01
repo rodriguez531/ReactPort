@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/css/main.19a6cd01.css",
+    "main.js": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/js/main.03b2710c.js",
+    "static/js/787.c559d518.chunk.js": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/js/787.c559d518.chunk.js",
+    "index.html": "/'http://rodriguez531.github.io/AlexReactPortifolio/index.html",
+    "main.19a6cd01.css.map": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/css/main.19a6cd01.css.map",
+    "main.03b2710c.js.map": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/js/main.03b2710c.js.map",
+    "787.c559d518.chunk.js.map": "/'http://rodriguez531.github.io/AlexReactPortifolio/static/js/787.c559d518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a6cd01.css",
+    "static/js/main.03b2710c.js"
+  ]
+}
